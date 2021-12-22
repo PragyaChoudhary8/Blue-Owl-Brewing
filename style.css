@@ -11332,10 +11332,10 @@ i.fa-star.green { color: #75c700; }
 .login-page.modal .logo { border-radius: 50%; }
 .login-page.modal h1 {
   text-indent: -9999px;
-  background-image: url("_assets/images/logo.png");
+  background-image: url("_assets/images/owl-removebg-preview.png");
   background-repeat: no-repeat;
-  width: 166px;
-  height: 166px;
+  width: 163px;
+  height: 163px;
   display: inline-block;
   background-position: center;
   border-radius: 50%;
